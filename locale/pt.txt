@@ -1,0 +1,22 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = casa das mangueiras 03
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_388AB363_317E_14E7_4185_C50ACBDE8F86.label = IMG_20260928_161108_00_009
+panorama_389000C9_317E_3422_41B0_3D4FE408E991.label = IMG_20260928_161156_00_010
+panorama_38900BE2_317E_0BE6_419C_EF8708077DED.label = IMG_20260928_161925_00_012
+panorama_3890DE30_317E_0C62_41C3_3D47A3B238D0.label = IMG_20260928_161233_00_011
